@@ -1,0 +1,3 @@
+Multiple regression is an extension of simple linear regression, a statistical method used to understand the relationship between a dependent variable and one or more 
+independent variables. In multiple regression, there are two or more independent variables.
+Y=β0 + β1X1 + β2X2 +…+βnXn +ε
